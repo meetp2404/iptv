@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1,A
+https://botallen.live
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music (576p)
+http://rstream.me/j/Sony_SAB_HD/master.m3u8|User-Agent=KAIOS
